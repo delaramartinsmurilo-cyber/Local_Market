@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "desc": "Scania P310",
+        "imagem": "../../public/scania.jpg",
+        "sal": 10200.00
+    },
+    {
+        "id": 2,
+        "desc": "Scania 1318",
+        "imagem": "../../public/scania 1318.jpg",
+        "sal": 100500.00
+    },
+    {
+        "id": 3,
+        "desc": "Nissan 240sx",
+        "imagem": "../../public/Nissan 240sx.jpg",
+        "sal": 30.000
+    }
+]
